@@ -7,6 +7,7 @@
 #
 # Author: Kevin Chen
 # Contact: chenk106@mcmaster.ca
+# GitHub: https://github.com/CNIVEK/GaussEliminationLab
 #
 ################################################################################
 import numpy as np
